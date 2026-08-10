@@ -3,37 +3,42 @@
 
 ---
 
-### 👤 Student Information
-- **Student Name**: PawanDubey
-- **Roll Number / Enrollment No**: CS-2341492
-- **Program**: B.Tech CSE (Specialization: Cloud Computing)
-- **Semester & Section**: 7th Semester | Section 4CSE8
-- **Academic Session**: 2026-27
-- **Faculty Coordinator**: Ms. Surabhi Purwar (surabhi.purwar@iilm.edu)
+### 👤 Student Details
+- **Student Name**: Pawan Dubey  
+- **Roll Number / Enrollment No**: CS-2341492  
+- **University Email**: pawan.dubey.cs27@iilm.edu  
+- **Company Email**: pawan.dubey@systemaops.in  
+- **Program**: B.Tech CSE (Specialization: Cloud Computing)  
+- **Semester & Section**: 7th Semester | Section 4CSE8  
+- **Academic Session**: 2026-27  
+- **Faculty Coordinator**: Ms. Surabhi Purwar (surabhi.purwar@iilm.edu)  
 
 ---
 
 ### 🏢 Internship Details
-- **Organization Name**: SystemaOps ([systemaops.com](https://systemaops.com))
-- **Role**: Cloud & DevOps Engineering Intern
-- **Duration**: 3 Months (Summer 2026)
-- **Project Title**: Cloud Infrastructure Automation & Containerized Deployment Platform
+- **Organization Name**: SystemaOps ([systemaops.com](https://systemaops.com))  
+- **Role**: Cloud & DevOps Engineering Intern  
+- **Duration**: 3 Months (Summer 2026)  
+- **Project Title**: Cloud Infrastructure Automation & Containerized Deployment Platform  
 
 ---
 
-### 📁 Submitted Documents (PDF Format)
+### 📁 Submitted Documents (Clean Single Names)
 This repository contains the required evaluation documents per IILM University guidelines:
 
-1. 📄 **Internship Report**: [`2026-27_PawanDubey_CS-2341492_Internship_Report.pdf`](./2026-27_PawanDubey_CS-2341492_Internship_Report.pdf)
-   - Strictly formatted per university guidelines (Times New Roman 12pt, 1.5 spacing, 1.5" left margin, A4).
-   - Covers Organization Profile, Problem Statement, System Architecture, Methodology, and References.
-
-2. 📊 **Internship Presentation (PPT -> PDF)**: [`2026-27_PawanDubey_CS-2341492_Internship_Presentation.pdf`](./2026-27_PawanDubey_CS-2341492_Internship_Presentation.pdf)
-   - Mandatory slide 1 includes IILM Logo/Name, Title, Student Name, Roll No, Program & Semester, Organization.
-   - Comprehensive 10-slide visual overview of architecture, CI/CD pipelines, and metrics dashboards.
-
-3. 📜 **Internship Completion Certificate**: [`2026-27_PawanDubey_CS-2341492_Internship_Completion_Certificate.pdf`](./2026-27_PawanDubey_CS-2341492_Internship_Completion_Certificate.pdf)
+1. 📄 **Internship Report (PDF)**: [`Internship_Report.pdf`](./Internship_Report.pdf)  
+   - Strictly formatted per university guidelines (Times New Roman 12pt, 1.5 spacing, Cover, Declaration, Acknowledgement, Chapter 4, IEEE References).
+2. 📊 **Internship Presentation (PDF)**: [`Internship_Presentation.pdf`](./Internship_Presentation.pdf)  
+   - 10-slide visual overview with mandatory Slide 1 details (IILM Name, Topic, Pawan Dubey, CS-2341492, 4CSE8, SystemaOps).
+3. 📜 **Internship Completion Certificate (PDF)**: [`Internship_Completion_Certificate.pdf`](./Internship_Completion_Certificate.pdf)  
    - Official SystemaOps Summer Internship Completion Certificate.
+
+---
+
+### ✏️ Editable Source Files
+- 📝 **Markdown Report (Editable on GitHub)**: [`INTERNSHIP_REPORT.md`](./INTERNSHIP_REPORT.md)
+- 📄 **Word Document Source**: [`Internship_Report.docx`](./Internship_Report.docx)
+- 📊 **PowerPoint Presentation Source**: [`Internship_Presentation.pptx`](./Internship_Presentation.pptx)
 
 ---
 
