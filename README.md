@@ -23,13 +23,13 @@
 
 ---
 
-### 📁 Submitted Documents (Official PDFs)
+### 📁 Submitted Evaluation Documents (Single File per Document)
 This repository contains the required evaluation documents per IILM University guidelines:
 
 1. 📄 **Internship Report (PDF)**: [`Internship_Report.pdf`](./Internship_Report.pdf)  
-   - Strictly formatted per university guidelines (Times New Roman 12pt, 1.5 spacing, Cover, Declaration, Acknowledgement, Chapter 4, IEEE References).
+   - Includes Cover Page, Candidate Declaration, Acknowledgement, Table of Contents, SystemaOps Certificate, **Embedded Official IILM University NOC (Page 6)**, Chapter 4 Project Description, and IEEE References.
 2. 📊 **Internship Presentation (PDF)**: [`Internship_Presentation.pdf`](./Internship_Presentation.pdf)  
-   - 10-slide visual overview with mandatory Slide 1 details (IILM Name, Topic, Pawan Dubey, CS-2341492, 4CSE8, SystemaOps).
+   - 10-slide visual academic overview with mandatory Slide 1 details (IILM Name, Topic, Pawan Dubey, CS-2341492, 4CSE8, SystemaOps).
 3. 📜 **Internship Completion Certificate (PDF)**: [`Internship_Completion_Certificate.pdf`](./Internship_Completion_Certificate.pdf)  
    - Official SystemaOps Summer Internship Completion Certificate.
 
